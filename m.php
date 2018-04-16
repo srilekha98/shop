@@ -17,7 +17,7 @@
                 );  
                 $_SESSION["shopping_cart"][$count] = $item_array;  
            }  
-           else  4
+           else 
            {  
                 echo '<script>alert("Item Already Added")</script>';  
                 echo '<script>window.location="m.php"</script>';  
